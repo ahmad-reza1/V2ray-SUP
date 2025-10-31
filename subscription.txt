@@ -1,1 +1,1 @@
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?mode=gun&security=&encryption=none&fp=chrome&type=grpc#%40Hddify
+vless://0acd67ec-a723-4760-a57c-1c35d0bb7113@tunnel.rapcity.space:43070?type=grpc&security=reality&serviceName=&fp=firefox&pbk=OiZTCW0hsyA1ceau0Dl7XUw3vhcKAA7zJBeJy6wIOkY&sni=canva.com&sid=3ba60226&spx=/#MaPo(longBandwidth):manualvless://0acd67ec-a723-4760-a57c-1c35d0bb7113@tunnel.rapcity.space:43070?type=grpc&security=reality&serviceName=&fp=firefox&pbk=OiZTCW0hsyA1ceau0Dl7XUw3vhcKAA7zJBeJy6wIOkY&sni=canva.com&sid=3ba60226&spx=/#MaPo(LBandW):manSUB
