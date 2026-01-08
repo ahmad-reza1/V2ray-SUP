@@ -11,5 +11,8 @@ vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?encryption=
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#backup10Unstable
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0#backup11Unstable
 
+
 vless://aa87242f-224b-48b0-cd40-c743b40cb351@DEADSEECtelegram.blackandwhiteshop.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=VPNV2RAYXZ.slimyoutaavers.ir&type=xhttp#backup12Unstable
+vless://ae7fc3d8-0e6a-4d51-b53c-91f7f7f2f4d8@panel-germany-9.subcenter.net:1009?type=tcp&path=%2F&host=zula.ir&headerType=http#backup13Unstable
+
 vless://44555482-eda6-40d9-9049-dd7581f546cb@tunnel.bytevps.cloud:43070?type=grpc&security=reality&serviceName=&fp=firefox&pbk=OiZTCW0hsyA1ceau0Dl7XUw3vhcKAA7zJBeJy6wIOkY&sni=canva.com&sid=3ba60226&spx=/#MaPo(LBandW):manSUB4
