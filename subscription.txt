@@ -1,18 +1,15 @@
-vless://414aeacd-569e-49cc-85ef-917fd4f19100@146.75.119.82:80?encryption=none&security=none&type=xhttp&host=e1.ir&path=%2F-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048&mode=auto&extra=%7B%22xPaddingBytes%22%3A%2210-100%22%2C%22noSSEHeader%22%3Atrue%2C%22noGRPCHeader%22%3Atrue%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%2C%22downloadSettings%22%3A%7B%22address%22%3A%22146.75.119.82%22%2C%22port%22%3A80%2C%22network%22%3A%22xhttp%22%2C%22security%22%3A%22none%22%2C%22xhttpSettings%22%3A%7B%22host%22%3A%22e1.ir%22%2C%22path%22%3A%22%2F-LiV2ry@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL-@LIGHTNING6-TEL--@LIGHTNING6-JOIN-@LIGHTNING6-TEL--@LIGHTNING6%3Fed%3D2048%22%2C%22xPaddingBytes%22%3A%2210-100%22%2C%22noSSEHeader%22%3Atrue%2C%22noGRPCHeader%22%3Atrue%7D%7D%7D#backup1Unstable
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.4:443?path=%2F%3Fed&security=tls&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#%40x
+vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@8.6.112.0:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#BU1
 
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@api.kermanshahi.org:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#backup2Unstable
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#backup3Unstable
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzE2ZDdiYmFlNGJkZDE0@85.90.207.104:18791#backup4Unstable
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#backup5Unstable
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#backup6Unstable
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?sni=jnir.pichondan.com&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1#backup7Unstable
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#backup8Unstable
-vless://7e58699f-1d5d-4f6b-b181-cb74f0ad9509@api.dark-coffe.com:2096?encryption=none&security=tls&sni=TzS7v35LfD.sMaRtTeChZaAl.InFo&fp=chrome&type=ws&host=TzS7v35LfD.sMaRtTeChZaAl.InFo&path=%2F#backup9Unstable
-hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#backup10Unstable
-hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0#backup11Unstable
+vless://4dc1192f-93e9-4bce-8018-e5d2de0ef2df@162.159.152.4:443?path=%2Ft6l3wjpc4dvr0d80%3Fed%3D2560&security=tls&encryption=none&host=vpn-5ly.pages.dev&fp=chrome&type=ws&sni=vpn-5ly.pages.dev#BU2
 
+vless://6131ec27-8eed-4af9-9f8e-a0629775f6d6@8.6.112.0:443?path=%2F65.109.211.85%3D2053&security=tls&encryption=none&host=floralwhite.qzz.io&type=ws&sni=floralwhite.qzz.io#BU3
 
-vless://aa87242f-224b-48b0-cd40-c743b40cb351@DEADSEECtelegram.blackandwhiteshop.ir:80?mode=auto&path=%2F&security=none&encryption=none&host=VPNV2RAYXZ.slimyoutaavers.ir&type=xhttp#backup12Unstable
-vless://ae7fc3d8-0e6a-4d51-b53c-91f7f7f2f4d8@panel-germany-9.subcenter.net:1009?type=tcp&path=%2F&host=zula.ir&headerType=http#backup13Unstable
+vless://c3540da5-6c0b-4d65-971f-97dfe9d58cbb@162.159.152.4:2087?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=cdnfr.adamedteb.com#BU4
+
+vless://e258977b-e413-4718-a3af-02d75492c349@162.159.152.4:443?path=%2F&security=tls&encryption=none&host=ww23.sgxaniu.qzz.io&fp=chrome&type=ws&sni=ww23.sgxaniu.qzz.io#BU5
+vless://49a0733d-d385-478a-bb2b-4bd35b76ed2e@104.18.32.47:443?path=%3Fed%3D2052&security=tls&encryption=none&host=Peotoo.veigaurd.online&fp=chrome&type=ws&sni=Peotoo.veigaurd.online#BU6
+
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@8.6.112.0:443?path=%2F&security=tls&encryption=none&host=dev.qsaas.dev&type=ws&sni=dev.qsaas.dev#BU7
 
 vless://44555482-eda6-40d9-9049-dd7581f546cb@tunnel.bytevps.cloud:43070?type=grpc&security=reality&serviceName=&fp=firefox&pbk=OiZTCW0hsyA1ceau0Dl7XUw3vhcKAA7zJBeJy6wIOkY&sni=canva.com&sid=3ba60226&spx=/#MaPo(LBandW):manSUB4
