@@ -14,4 +14,6 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@8.6.112.0:443?path=%2F&security=tls
 
 vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.4:443?path=%2F%3Fed&security=tls&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#BU8
 
+vless://a24b5351-bfbc-410d-a0f1-3cff35a0e090@8.6.112.11:2087?path=%2FNama%3Fed%3D2048&security=tls&encryption=none&host=cdn.giftcard-shop.ir&fp=chrome&type=ws&sni=cdn.giftcard-shop.ir#BU9
+
 vless://44555482-eda6-40d9-9049-dd7581f546cb@tunnel.bytevps.cloud:43070?type=grpc&security=reality&serviceName=&fp=firefox&pbk=OiZTCW0hsyA1ceau0Dl7XUw3vhcKAA7zJBeJy6wIOkY&sni=canva.com&sid=3ba60226&spx=/#MaPo(LBandW):manSUB4
