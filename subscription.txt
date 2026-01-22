@@ -12,4 +12,5 @@ vless://4267751e-4e4c-43cb-9f1e-b74a8b1315a8@87.249.139.231:8443?security=realit
 vless://fcc0aa15-fb0d-4337-9e6f-af25a2106fd4@194.87.29.240:443?security=reality&encryption=none&pbk=vfmqSXTEjdIOgz43eZTNzBRztAvd1U1dDkSz_mnaSk4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=82c8140feb118043#012
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@159.195.43.18:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#013
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@159.195.43.252:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#014
+vless://c2ca41d6-a825-454b-abf6-e4a83d6df9c7@chatgpt.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=god1.alireza031.net#015
 vless://44555482-eda6-40d9-9049-dd7581f546cb@tunnel.bytevps.cloud:43070?type=grpc&security=reality&serviceName=&fp=firefox&pbk=OiZTCW0hsyA1ceau0Dl7XUw3vhcKAA7zJBeJy6wIOkY&sni=canva.com&sid=3ba60226&spx=/#MaPo(LBandW):manSUB4
