@@ -1,19 +1,8 @@
-
-vless://602b380a-9fdf-4425-bc07-aae9a95cfc4b@8.6.112.0:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#BU1
-
-vless://4dc1192f-93e9-4bce-8018-e5d2de0ef2df@162.159.152.4:443?path=%2Ft6l3wjpc4dvr0d80%3Fed%3D2560&security=tls&encryption=none&host=vpn-5ly.pages.dev&fp=chrome&type=ws&sni=vpn-5ly.pages.dev#BU2
-
-vless://6131ec27-8eed-4af9-9f8e-a0629775f6d6@8.6.112.0:443?path=%2F65.109.211.85%3D2053&security=tls&encryption=none&host=floralwhite.qzz.io&type=ws&sni=floralwhite.qzz.io#BU3
-
-vless://c3540da5-6c0b-4d65-971f-97dfe9d58cbb@162.159.152.4:2087?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=cdnfr.adamedteb.com#BU4
-
-vless://e258977b-e413-4718-a3af-02d75492c349@162.159.152.4:443?path=%2F&security=tls&encryption=none&host=ww23.sgxaniu.qzz.io&fp=chrome&type=ws&sni=ww23.sgxaniu.qzz.io#BU5
-vless://49a0733d-d385-478a-bb2b-4bd35b76ed2e@104.18.32.47:443?path=%3Fed%3D2052&security=tls&encryption=none&host=Peotoo.veigaurd.online&fp=chrome&type=ws&sni=Peotoo.veigaurd.online#BU6
-
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@8.6.112.0:443?path=%2F&security=tls&encryption=none&host=dev.qsaas.dev&type=ws&sni=dev.qsaas.dev#BU7
-
-vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@162.159.152.4:443?path=%2F%3Fed&security=tls&encryption=none&fp=chrome&type=ws&sni=vless.hubp.de#BU8
-
-vless://a24b5351-bfbc-410d-a0f1-3cff35a0e090@8.6.112.11:2087?path=%2FNama%3Fed%3D2048&security=tls&encryption=none&host=cdn.giftcard-shop.ir&fp=chrome&type=ws&sni=cdn.giftcard-shop.ir#BU9
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@37.120.172.61:22955?encryption=none&security=reality&sni=one-piece.com&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&sid=6ba85179e30d4fc2&type=grpc&serviceName=grpc&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%40FREE2CONFIG
+vless://a384c715-aeb5-45e8-859b-f687ca6c083f@185.112.59.3:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ&sid=9f35da6c9412b832&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%40FREE2CONFIG
+vless://95abaefc-7861-417a-81b7-166cb788ce1a@185.177.238.18:2083?encryption=none&security=reality&sni=apple.com&fp=chrome&pbk=J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ&sid=6da16b1335651b38&type=grpc&serviceName=UpdateService&mode=gun#%F0%9F%87%A6%F0%9F%87%B1%40FREE2CONFIG
+vless://eda2c296-a990-4d41-bbdf-f9c96b9579cd@84.17.58.152:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=6419bed7fd0a2cff&type=tcp&headerType=none#%F0%9F%87%AE%F0%9F%87%B9%40FREE2CONFIG
+vless://6c49485f-843c-4e96-abfe-046bc473c7b0@45.144.51.22:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=euR8poucesDF-UxANxJ7Uqg1t4cfiDtAzAQcTVhRQCE&sid=140d8b3989bf5116&type=tcp&headerType=none#%F0%9F%87%B5%F0%9F%87%B1%40FREE2CONFIG
+vless://95abaefc-7861-417a-81b7-166cb788ce1a@5.199.173.116:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%B9%40FREE2CONFIG
 
 vless://44555482-eda6-40d9-9049-dd7581f546cb@tunnel.bytevps.cloud:43070?type=grpc&security=reality&serviceName=&fp=firefox&pbk=OiZTCW0hsyA1ceau0Dl7XUw3vhcKAA7zJBeJy6wIOkY&sni=canva.com&sid=3ba60226&spx=/#MaPo(LBandW):manSUB4
