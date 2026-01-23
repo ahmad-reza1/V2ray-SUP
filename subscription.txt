@@ -15,4 +15,6 @@ vless://63f92f3c-447c-4283-80b9-0af8e164cdad@159.195.43.252:22955?security=reali
 vless://c2ca41d6-a825-454b-abf6-e4a83d6df9c7@chatgpt.com:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=ws&sni=god1.alireza031.net#015
 vless://7fce8c5a-790b-4ad9-abd8-7172cdfe18c3@104.18.32.47:443?path=%2FObXDTpNArb71SzIL&security=tls&alpn=http%2F1.1&encryption=none&host=ten.farshesfahani.ir&fp=chrome&type=ws&sni=ten.farshesfahani.ir#016
 vless://e61e8f79-d16e-44ba-936b-63b227d7d625@104.18.32.47:443?path=%2Fsafeway&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=new.3315888.xyz&fp=chrome&type=ws&sni=new.3315888.xyz#017
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@chatgpt.com:443?path=%2Ftelegram-&security=tls&encryption=none&host=a.azadnet003.ddns-ip.net&type=ws#018
+vless://65a1e22c-d37e-4b92-b6ca-1d09dcd1d441@193.187.132.145:587?security=reality&encryption=none&pbk=HnPEhCDTcZnDejsAiidoOSx2-h0EvJMILj4bv3X1mBc&headerType=&fp=chrome&type=tcp&sni=excoino.com&sid=916e8258c4a01b02#018
+vless://63f92f3c-447c-4283-80b9-0af8e164cdad@37.120.164.43:22955?security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#019
+vless://d0298536-d670-4045-bbb1-ddd5ea68683e@chatgpt.com:443?path=%2Ftelegram-&security=tls&encryption=none&host=a.azadnet003.ddns-ip.net&type=ws#020
