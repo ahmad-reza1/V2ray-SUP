@@ -54,3 +54,5 @@ vless://00c49863-6d15-4289-9229-841ee5f7868c@178.250.246.80:1488?encryption=none
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@94.103.169.101:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#054
 vless://31c5e9f6-daf6-4ce9-9fb7-4b0d4e53b85e@84.201.173.57:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=cdnv-img.perekrestok.ru&fp=chrome&pbk=M_1zEYq4wjbrRnpTOOsfzoFhAHZgyPR09ahuI2Fw7ko&sid=71f81391c503c9a9&type=tcp&headerType=none#055
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@87.120.186.149:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&sid=00684d2eae2cdd16&type=tcp&headerType=none#056
+
+vless://95abaefc-7861-417a-81b7-166cb788ce1a@51.250.35.199:47051?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api.security.max.ru&fp=chrome&pbk=y8f0sznQFqvSOPFcFvPcQFfXbz0Ag10ySB4A88OXMy0&sid=effab4f3a0ed698e&type=tcp&headerType=none#kir2
